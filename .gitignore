@@ -1,3 +1,6 @@
+# Skills (installed globally, not project-specific)
+.agents/
+
 # Dependencies
 node_modules/
 package-lock.json
